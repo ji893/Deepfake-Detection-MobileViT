@@ -21,3 +21,19 @@ ViT의 전역 정보 처리 능력을 적절히 혼합
 데이터 효율성
 
 비교적 적은 데이터에서도 뛰어난 일반화 성능
+
+
+![이미지1](./images/image1.png)  
+
+![이미지2](./images/image2.png)  
+
+![이미지3](./images/image3.png)  
+
+![이미지4](./images/image4.png)  
+
+![이미지5](./images/image5.png)  
+
+![이미지6](./images/image6.png)  
+
+![이미지7](./images/image7.png)  
+
