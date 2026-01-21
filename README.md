@@ -31,9 +31,9 @@ ViT의 전역 정보 처리 능력을 적절히 혼합
 
 ![이미지4](./images/image4.jpg)  
 
-![이미지5](./images/image5.png)  
+![이미지5](./images/image5.jpg)  
 
-![이미지6](./images/image6.png)  
+![이미지6](./images/image6.jpg)  
 
-![이미지7](./images/image7.png)  
+![이미지7](./images/image7.jpg)  
 
