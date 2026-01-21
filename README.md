@@ -1,5 +1,5 @@
 # Deepfake-Detection-MobileViT
-본 프로젝트는 딥페이크 영상 및 이미지 검출을 위해 여러 모델을 비교·분석하고, 그 중 MobileViT 모델이 가진 장점과 성능을 정리합니다.
+본 프로젝트는 딥페이크 영상 및 이미지 검출을 위해 여러 모델을 비교·분석하고, 그 중 MobileViT 모델이 가진 장점과 성능을 정리한다.
 
 최종 모델 MobileViT 
 
@@ -23,13 +23,13 @@ ViT의 전역 정보 처리 능력을 적절히 혼합
 비교적 적은 데이터에서도 뛰어난 일반화 성능
 
 
-![이미지1](./images/image1.png)  
+![이미지1](./images/image1.jpg)  
 
-![이미지2](./images/image2.png)  
+![이미지2](./images/image2.jpg)  
 
-![이미지3](./images/image3.png)  
+![이미지3](./images/image3.jpg)  
 
-![이미지4](./images/image4.png)  
+![이미지4](./images/image4.jpg)  
 
 ![이미지5](./images/image5.png)  
 
